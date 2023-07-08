@@ -7,7 +7,7 @@
     scroll-behavior: smooth;
 }
 .pizza-image{
-    background-image: url("pizza1 1.png");
+    background-image: url("images/pizza1 1.png");
     height: 100vh;
     width: 100%;
     background-position: center bottom;
